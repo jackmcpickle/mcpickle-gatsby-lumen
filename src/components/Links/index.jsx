@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.scss';
-import '../../assets/fonts/fontello-771c82e0/css/fontello.css';
+import Envelope from 'svg-react-loader?name=Envelope!../../assets/icons/envelope.svg'
 
 class Links extends React.Component {
   render() {
