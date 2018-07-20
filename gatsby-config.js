@@ -20,13 +20,12 @@ module.exports = {
       }
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#'
+      name: 'Jack McNicol',
+      email: 'jack@mcpickle.com.au',
+      mobile: '61438585696',
+      twitter: 'jackmcpickle',
+      github: 'jackmcpickle',
+      linkedin: 'jackmcpickle',
     }
   },
   plugins: [
